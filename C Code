@@ -23,6 +23,8 @@
 //LVP disabled (RB3 is digital I/O)
 //CPD disabled
 //DEBUG disabled
+//Code Protect - None
+//Write Protection - Off
 
 #define _XTAL_FREQ 8000000
 void usDelay(unsigned int);
